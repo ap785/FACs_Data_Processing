@@ -4,7 +4,7 @@ Flow Analysis Data Reconfiguration for PRISM
 
 ## Overview
 
-This repository contains Python code for reading Excel files created by flow analysis and reconfiguring the data for easier visualization in PRISM.
+This repository contains Python file (facs.py) for reading Excel files created by flow analysis and reconfiguring the data for easier visualization in PRISM.
 
 ## Features
 
